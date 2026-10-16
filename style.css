@@ -1,0 +1,19 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    border: 1px solid;
+    box-shadow: -8px 5px 26px -9px rgba(0,0,0,0.75);
+}
+
+.row{
+    gap: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+
+footer{
+    color: white;
+}
+
+body{
+    background-image: url(badminton.jpg);
+}
